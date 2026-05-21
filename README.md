@@ -1,21 +1,21 @@
 ### Hi, I'm Jana Sri 
 Frontend Developer | AWS & DevOps Enthusiast
 
- About Me
+ ### About Me
 - Currently learning AWS Cloud and DevOps
 - Interested in Frontend Development and Cloud Deployment
 - Exploring CI/CD Pipelines using GitHub Actions
 - Hosting projects on AWS EC2 and GitHub Pages
 - Passionate about building modern and responsive web applications
 
-Tech Stack
+### Tech Stack
 
-Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript
 
-Cloud & DevOps
+### Cloud & DevOps
 - AWS EC2
 - GitHub Actions
 - Linux
@@ -32,15 +32,10 @@ Modern frontend animation showcase project hosted using GitHub Pages and AWS EC2
 Live Demo:
 https://janasri-16.github.io/motionx-showcase/
 
----
-
 ### CloudDeploy Pro
 Frontend deployment project demonstrating automated CI/CD workflow using GitHub Actions and AWS EC2 hosting.
-
 Live Demo:
-https://janasri-16.github.io/clouddeploy-pro/
-
----
+https://janasri-16.github.io/motionx-showcase/
 
 ## Currently Learning
 
@@ -49,8 +44,6 @@ https://janasri-16.github.io/clouddeploy-pro/
 - Linux Server Management
 - Nginx Configuration
 - Deployment Workflows
-
----
 
 ## GitHub
 
