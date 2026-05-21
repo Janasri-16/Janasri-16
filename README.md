@@ -32,11 +32,6 @@ Modern frontend animation showcase project hosted using GitHub Pages and AWS EC2
 Live Demo:
 https://janasri-16.github.io/motionx-showcase/
 
-### CloudDeploy Pro
-Frontend deployment project demonstrating automated CI/CD workflow using GitHub Actions and AWS EC2 hosting.
-Live Demo:
-https://janasri-16.github.io/motionx-showcase/
-
 ## Currently Learning
 
 - AWS Cloud
