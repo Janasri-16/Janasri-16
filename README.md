@@ -42,7 +42,21 @@ Modern frontend animation showcase project hosted using GitHub Pages and AWS EC2
 Live Demo:
 https://janasri-16.github.io/motionx-showcase/
 
-## 2. 
+## 2. aws-scalable-web-application
+
+## Features
+
+* Custom VPC for secure networking
+* Ubuntu EC2 instance hosting a static website
+* Nginx web server configuration
+* Auto Scaling Group for automatic scaling
+* Application Load Balancer for traffic distribution
+* High Availability architecture
+* User Data Script for automated deployment
+* GitHub-based source code management
+
+Repo: https://github.com/Janasri-16/aws-scalable-web-application
+
 ## Currently Learning
 
 - AWS Cloud
