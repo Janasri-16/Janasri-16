@@ -1,4 +1,4 @@
-### Hi, I'm Jana Sri Somesh
+### Hi, I'm Jana Sri 
 Frontend Developer | AWS & DevOps Enthusiast
 
  ### About Me
@@ -36,12 +36,13 @@ Frontend Developer | AWS & DevOps Enthusiast
 
 ## Featured Projects
 
-### MotionX Showcase
+### 1. MotionX Showcase
 Modern frontend animation showcase project hosted using GitHub Pages and AWS EC2 with CI/CD pipeline integration.
 
 Live Demo:
 https://janasri-16.github.io/motionx-showcase/
 
+## 2. 
 ## Currently Learning
 
 - AWS Cloud
