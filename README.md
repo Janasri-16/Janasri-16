@@ -1,4 +1,4 @@
-### Hi, I'm Jana Sri 
+### Hi, I'm Jana Sri Somesh
 Frontend Developer | AWS & DevOps Enthusiast
 
  ### About Me
@@ -17,6 +17,16 @@ Frontend Developer | AWS & DevOps Enthusiast
 
 ### Cloud & DevOps
 - AWS EC2
+- AWS S3
+- IAM
+- AWS RDS
+- Route53
+- Cloud watch
+- AWS ALB
+- AWS VPC
+- AWS Elastic IP
+- Security group
+- Auto scaling groups
 - GitHub Actions
 - Linux
 - Nginx
