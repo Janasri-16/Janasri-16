@@ -1,38 +1,52 @@
-### Hi, I'm Jana Sri 
-Frontend Developer | AWS & DevOps Enthusiast
+# Hi, I'm Janasri S 👋
+**Computer Science Graduate | Technology Enthusiast | IT & Cloud | Software & Automation**
 
- ### About Me
-- Currently learning AWS Cloud and DevOps
-- Interested in Frontend Development and Cloud Deployment
-- Exploring CI/CD Pipelines using GitHub Actions
-- Hosting projects on AWS EC2 and GitHub Pages
-- Passionate about building modern and responsive web applications
+## About Me
+I'm a Computer Science and Engineering graduate with an interest in technology, infrastructure, software and IT operations.
 
-### Tech Stack
+I enjoy exploring new technologies, working on practical projects and developing solutions that combine technical knowledge with problem-solving.
 
-### Frontend
+- Exploring Cloud Computing and IT Infrastructure.
+- Practising Linux Administration and system management.
+- Building projects using AWS, Linux and web technologies.
+- Learning automation, scripting and deployment workflows.
+- Interested in technology, technical support, software solutions and continuous learning.
+
+I'm always looking for opportunities to apply my skills, gain practical experience and grow professionally.
+
+## Technical Skills
+### Programming & Web Technologies
 - HTML
 - CSS
 - JavaScript
+- MySQL
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 - AWS EC2
 - AWS S3
-- IAM
-- AWS RDS
-- Route53
-- Cloud watch
-- AWS ALB
 - AWS VPC
-- AWS Elastic IP
-- Security group
-- Auto scaling groups
-- GitHub Actions
-- Linux
-- Nginx
-- Git & GitHub
+- AWS IAM
+- AWS RDS
+- Application Load Balancer
+- Auto Scaling
+- CloudWatch
+- Networking Fundamentals
 
----
+### Operating Systems & Administration
+- Linux (Ubuntu, Amazon Linux 2)
+- Windows
+- SSH
+- Bash Scripting
+- User & Permission Management
+- Nginx & Apache
+- Log Monitoring
+
+### Tools & Technologies
+- Git & GitHub
+- GitHub Actions
+- Docker
+- Ansible
+- Terraform (Exposure)
 
 ## Featured Projects
 
@@ -57,14 +71,6 @@ https://janasri-16.github.io/motionx-showcase/
 
 Repo: https://github.com/Janasri-16/aws-scalable-web-application
 
-## Currently Learning
+Curious about technology. Focused on learning. Always building and improving.
 
-- AWS Cloud
-- CI/CD Automation
-- Linux Server Management
-- Nginx Configuration
-- Deployment Workflows
 
-## GitHub
-
-https://github.com/janasri-16
